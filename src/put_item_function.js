@@ -1,3 +1,5 @@
+//Atividade do curso "Adicionando Segurança em APIs na AWS com Amazon Cognito"
+
 var AWS = require('aws-sdk');
 const dynamodb = new AWS.DynamoDB.DocumentClient();
 
