@@ -1,4 +1,4 @@
-# Desenvolvimento da atividade prática do DIO Live Coding do dia 17/11/2021
+# Desenvolvimento da atividade do curso "Adicionando Segurança em APIs na AWS com Amazon Cognito" 25/05/2023
 
 ## Serviços AWS utilizados
 
